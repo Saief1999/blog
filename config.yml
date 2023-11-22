@@ -1,4 +1,4 @@
-baseURL: https://saief.me
+baseURL: https://blog.saief.me
 languageCode: en-us
 title: Saief Zneti
 theme: "PaperMod"
@@ -76,5 +76,5 @@ menu:
 
     - identifier: github
       name: Github
-      url: https://github.com/saief1999/personal-blog
+      url: https://github.com/saief1999/blog
       weight: 30
