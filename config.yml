@@ -1,0 +1,80 @@
+baseURL: https://saief.me
+languageCode: en-us
+title: Saief Zneti
+theme: "PaperMod"
+
+buildDrafts: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Saief Zneti
+  description: "Saief's Personal blog website"
+  keywords: [Blog, Portfolio]
+  author: Saief Zneti
+  ShowReadingTime: true # Reading time for posts
+  ShowBreadCrumbs: true # navigation
+  ShowCodeCopyButtons: true # Copy code from posts
+  ShowPostNavLinks: true # Navigate between Next/Previous post
+  ShowWordCount: true # Show word count for posts
+  ShowToc: true # Add the Table Of content
+  TocOpen: false # TOC is closed by default
+
+  # Home Page
+  profileMode:
+    enabled: true
+    # title: "<Title>" # default will be site title
+    subtitle: "Backend Developer, Devops Enthusiast"
+    buttons:
+      - name: Blog
+        url: "/blog"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/Saief1999"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/saief-zneti/"
+    - name: cv
+      url: "https://drive.google.com/file/d/1bN7YZuQZrIvg5V9OuPC6pHg94ynmYe86/view?usp=share_link"
+    - name: email
+      url: "mailto:zanetisaief@gmail.com"
+    - name: spotify
+      url: "https://open.spotify.com/user/q3nehe7nwsi359mbzhm64t724?si=4d01d6970c3e4c8e"
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Needed for Search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
+
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+
+    - identifier: github
+      name: Github
+      url: https://github.com/saief1999/personal-blog
+      weight: 30
