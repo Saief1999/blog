@@ -2,11 +2,11 @@
 
 ## Overview
 
-This Repository contains my personal blog. Powered by [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+This repository contains my personal blog. Powered by [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
 ## Quick Start
 
-Start By installing [Hugo](https://gohugo.io/installation/)
+Start by installing [Hugo](https://gohugo.io/installation/)
 
 To add a new post, simply run
 
