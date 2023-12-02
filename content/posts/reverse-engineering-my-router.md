@@ -3,7 +3,11 @@ author: "Saief Zneti"
 title: "Reverse Engineering My Router"
 description: "How I managed to reverse engineer my portable router"
 date: 2023-02-12T19:37:51+01:00
-draft: true 
+draft: true
+cover:
+    image: "/images/reverse-engineering-my-router/poster.jpg"
+    alt: "Router"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles 
 ---
 
 ## Motivation
