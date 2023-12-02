@@ -22,6 +22,18 @@ Each new post created based on the default archetype is a draft. **Drafts are bu
 
 After finishing the writing process we need to manually change `draft` to `false` in the header part of the markdown file.
 
+## Cover Images
+
+We can add cover images to our articles. To do that, paste this into the header part of the article then change as necessary.
+
+```yaml
+cover:
+    image: "<image local path/remote URL>"
+    alt: "<image alt text>"
+    caption: "<image caption>" 
+    relative: true/false # To use relative path for cover image, used in hugo Page-bundles 
+```
+
 ### Starting the local server
 
 ```bash
