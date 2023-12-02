@@ -106,7 +106,7 @@ For these reasons, I created an *Email Chain*: My Custom email is the primary em
 
 the `Gmail` Email is only used for Cloudflare, MXRoute and recovery. The `Yahoo` email is only used for recovery. `zneti@saief.me` is used for most of my personal services.
 
-## Email Client: IMAP or POP3?
+## Email Protocol: IMAP or POP3?
 
 ![Email Chain](/images/setting-up-my-custom-email-address/pop3_vs_imap.webp)
 
