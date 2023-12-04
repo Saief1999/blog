@@ -15,7 +15,7 @@ cover:
 
 > Note 2 : The notes below are subjective and they reflect my own experience. So take them with a grain of salt.
 
-<!-- ## The Weather
+## The Weather
 
 First and foremost, obviously, it's much colder here than it is in Tunisia. Sky is generally cloudy and even when it's sunny it's not very hot. ( 30° C is considered quite hot here. It's considered just a normal day in Tunisia )
 
@@ -101,4 +101,4 @@ First and foremost, obviously, it's much colder here than it is in Tunisia. Sky 
 - Cashiers in supermarkets seem to greet each and every customer. And afterwards they will tell you good bye. Or at the end of the week they will wish you a happy weekend. We don't do that in Tunisia. And we don't generally wish a happy weekend to people. However we do have our own traditions ( calling family/friends during celerations to say "Happy Eid")
 - As muslims, before eating we mostly say "besmellah". When we finish we say "Hamdoullah". As tunisians, after showering/eating/sleeping we say "sa7a" to whoever had it to wish them good health. Nothing similar to this exists in Germany.
 - Whenever you're eating food near friends. In tunisia you will almost always ask the person in front of you if they want some of what you're having ( In case they crave it ). In Germany this simply doesn't exist.
-- Amazon Delivery is much better than delivery we have in Tunisia. You get ETA also and you can even track the delivery Driver ( how many stops until it reaches you -->
+- Amazon Delivery is much better than delivery we have in Tunisia. You get ETA also and you can even track the delivery Driver ( how many stops until it reaches you

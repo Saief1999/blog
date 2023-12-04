@@ -3,7 +3,7 @@ languageCode: en-us
 title: Saief Zneti
 theme: "PaperMod"
 
-buildDrafts: true
+buildDrafts: false
 
 minify:
   disableXML: true
